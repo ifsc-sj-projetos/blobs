@@ -36,7 +36,7 @@ Para ajudá-lo nessa missão, pequenos líquens `@` estão dispostos a melhorar 
 ```
 git clone https://github.com/ifsc-sj-projetos/blobs
 
-cd projeto-POO
+cd blobs
 
 javac *.java && java Main
 ```
